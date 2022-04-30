@@ -1,4 +1,7 @@
 Todo Application
+# Sources
+
+I make this app, watching online course "React+Redux - Профессиональная Разработка".
 
 # Getting Started with Create React App
 
