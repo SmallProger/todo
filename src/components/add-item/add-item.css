@@ -1,0 +1,12 @@
+.add-item-field-input {
+  margin-top: 5px;
+}
+.add-item-field {
+  gap: 5px;
+  margin-bottom: 20px;
+}
+.add-item-field-btn {
+  border: 1px solid rgb(211, 209, 209);
+  justify-self: flex-end;
+  align-self: flex-end;
+}
