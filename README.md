@@ -1,6 +1,6 @@
 Todo Application
 
-# How it look
+# How it looks
 
 ![image](https://user-images.githubusercontent.com/81322767/166115051-d81094b6-3b4d-4ef1-8bc9-69cb83490a7d.png)
 
